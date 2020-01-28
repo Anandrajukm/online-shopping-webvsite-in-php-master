@@ -26,7 +26,7 @@ session_start();
                <div class="container">
                    <center>
                    <div id="bannerContent">
-                       <h1>We sell Anand .</h1>
+                       <h1> Anand testing webesite .</h1>
                        <p>Flat 40% OFF on all premium brands.</p>
                        <a href="products.php" class="btn btn-danger">Shop Now</a>
                    </div>
